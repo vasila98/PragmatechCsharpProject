@@ -10,28 +10,24 @@ namespace duzbucaqlinin_sahesi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Duzbu8caqlinin enini daxil edin: ");
+            Console.WriteLine("Duzbucaqlinin enini daxil edin: ");
             int eni=Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Duzbubaqlinin uzunlugunu daxil edin: ");
+            Console.WriteLine("Duzbucaqlinin uzunlugunu daxil edin: ");
             int uzunlugu=Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Duzbucaqlinin sahesi :");
             Console.WriteLine(Sahe(eni,uzunlugu));
             Console.WriteLine("Duzbucaqlinin perimetri :");
-
-
             Console.WriteLine(Perimetr(eni, uzunlugu));
         }
         public static int Sahe(int eni, int uzunlugu)
         {
             int sahe = eni * uzunlugu;
-            
             return sahe;
 
         }
         public static int Perimetr(int eni, int uzunlugu)
         {
             int perimetr = 2 * (eni + uzunlugu);
-
             return perimetr;
 
         }
