@@ -10,22 +10,22 @@ namespace reverse_method
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bir eded daxil edin:");
-            int eded=Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Tersine yazilis:");
-            Reverse(eded);
+            string soz ="vesi";
+            Console.WriteLine(Reverse(soz));
 
 
         }
 
-        public static int Reverse(int eded)
+        public static string Reverse(string input)
         {
-            for (int i = eded; eded> -1; eded--)
+            char[] charArray = input.ToCharArray();
+            string soz = "";
+            for (int i =charArray.Length-1; i> -1; i--)
             {
-                Console.WriteLine(i--);
+               soz+=charArray[i];
 
             }
-            return eded;
+            return soz;
         }
         
    
