@@ -10,9 +10,9 @@ namespace Task03
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Tek( 14587));
+            Console.WriteLine(Tek_Cut( 14587));
         }
-        public static int Tek(int a)
+        public static int Tek_Cut(int a)
         {
             if (a % 2 == 0)
             {
