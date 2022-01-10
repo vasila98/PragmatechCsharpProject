@@ -19,7 +19,13 @@ namespace Task04
             }
             else if (30 < yas && yas < 40 && yas>0)
             {
-                Console.WriteLine("son reqem");
+                yas = yas % 10;
+                Console.WriteLine(yas);
+            }
+            else if (yas>40 && yas<100)
+            {
+                Console.WriteLine("Yasiniz: " + yas);
+
             }
             else 
             {
