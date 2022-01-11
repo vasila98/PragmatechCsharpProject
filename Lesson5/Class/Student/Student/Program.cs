@@ -13,4 +13,8 @@ namespace Student
             Console.WriteLine("Student Classi");
         }
     }
+    class Student
+    {
+        public string Name { get; set; }    
+    }
 }
