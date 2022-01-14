@@ -11,6 +11,7 @@ namespace Task
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Wold");
+            Console.WriteLine("Task");
         }
     }
 }
