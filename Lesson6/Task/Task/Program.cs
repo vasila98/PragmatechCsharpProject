@@ -10,8 +10,18 @@ namespace Task
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Wold");
-            Console.WriteLine("Task");
+            Account[] array = new Account[2];
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.WriteLine("Username:");
+                string username = Console.ReadLine();
+                Console.WriteLine("Password:");
+                string password = Console.ReadLine();
+
+                Account accnt = new Account(username, password);
+                accnt.No = i;
+                array[i] = accnt;
+            }
         }
     }
 }
