@@ -17,5 +17,20 @@ namespace Task
             Name= usrname;
             Surname= surnm;
         }
+
+        public  void GetFullName( string ad, string soyad)
+        {
+            Console.WriteLine(ad + soyad); 
+
+        }
+
+        public static  string AdSoyad(string name, string surname)
+        {
+
+            name = "Vesi";
+            surname = "Hesenova";
+
+            return name + " " + surname;
+        }
     }
 }

@@ -12,6 +12,8 @@ namespace Task
         {
             Student student = new Student("Vesi", "Hesenova");
             Console.WriteLine(student.Name);
+            student.GetFullName("vesi", "hesenova");
+           
         }
     }
 }
