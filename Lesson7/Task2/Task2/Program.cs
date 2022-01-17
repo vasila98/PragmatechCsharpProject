@@ -10,7 +10,12 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellooo");
+            // classin obyekti
+            Account obyekt = new Account("vesi", "vesi123");
+            obyekt.StaticsizMetod();
+            Console.WriteLine(Account.StaticReturn(5, 6));
+            Account.StaticVoid();
+            Console.WriteLine(obyekt.Name);
         }
     }
 }
