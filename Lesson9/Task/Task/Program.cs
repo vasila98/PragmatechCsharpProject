@@ -11,11 +11,11 @@ namespace Task
         static void Main(string[] args)
         {
             Dictionary<string,string> olkevepytxt=new Dictionary<string, string>();
-            for (int i = 0; i <2; i++)
+            for (int i = 0; i <10; i++)
             {
-                Console.WriteLine("olke");
+                Console.WriteLine("Hormetli istifadeci! Zehmet olmasa olke adini qeyd edin: ");
                 string olke=Console.ReadLine();
-                Console.WriteLine("seher");
+                Console.WriteLine("Hormetli istifadeci! Zehmet olmasa olkeye aid paytaxti qeyd edin: ");
                 string paytaxt=Console.ReadLine();
                 olkevepytxt.Add(olke, paytaxt);
                 
@@ -23,7 +23,7 @@ namespace Task
              
 
             }
-            Console.WriteLine("yaz");
+            Console.WriteLine("Hormetli istifadeci! Zehmet olmasa paytaxtini tapmaq istediyiniz olkenin adini qeyd edin: ");
             string olkead=Console.ReadLine();
             foreach (var item in olkevepytxt)
             {
@@ -31,14 +31,18 @@ namespace Task
                 {
                     Console.WriteLine(item.Value);
                 }
+                else if (olkead== "all")
+                {
+                    Console.WriteLine(item.Value);
+                }
             }
-            Console.WriteLine("daxil ele");
+            Console.WriteLine("Yeni paytaxt axtarilsin? Y/N");
             string yes = "y";
             string no = "n";
             string son=Console.ReadLine();
             if (son == yes)
             {
-                Console.WriteLine("yaz");
+                Console.WriteLine("Olkenin adini daxil edin: ");
                 string olkeadi = Console.ReadLine();
                 foreach (var item in olkevepytxt)
                 {
@@ -51,7 +55,8 @@ namespace Task
             }
             else if(son == no)
             {
-                Console.WriteLine("sagol");
+                Console.WriteLine("Emeliyyat sona catmisdir");
+                
                 
             }
 
