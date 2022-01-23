@@ -38,7 +38,15 @@ namespace Task
             string son=Console.ReadLine();
             if (son == yes)
             {
-                
+                Console.WriteLine("yaz");
+                string olkeadi = Console.ReadLine();
+                foreach (var item in olkevepytxt)
+                {
+                    if (item.Key == olkeadi)
+                    {
+                        Console.WriteLine(item.Value);
+                    }
+                }
 
             }
             else if(son == no)
