@@ -63,7 +63,59 @@ namespace Task
 
 
             // task 2
-            Console.WriteLine("queue");
+            //Queue<string> melumat = new Queue<string>();
+            //for (int i = 0; i <5; i++)
+            //{
+            //    Console.WriteLine("daxil ele");
+            //    string daxil=Console.ReadLine();
+            //    melumat.Enqueue(daxil);
+
+
+
+            //    foreach (var item in melumat)
+            //    {
+
+
+            //        Console.WriteLine(item);
+            //    }
+
+
+            //}
+
+            // task 5
+            for (int i = 0; i < 2; i++)
+            {
+                int say = 0;
+                Console.WriteLine("cumleni  daxil ele: ");
+                string cumle = Console.ReadLine();
+                foreach (char a in cumle)
+                {
+                    if (Convert.ToString(a) == "a")
+                    {
+                        say +=1;
+                    }
+                    
+                }
+                
+                if (say > 0)
+                {
+                    Console.WriteLine("daxilinde olan a herfi qeder cap edirem...");
+                    for (int h = 0;h < say; h++)
+                    {
+                        
+                        Console.WriteLine(cumle);
+                    }
+                }
+                else
+                {
+                    cumle = null;
+                }
+
+
+            }
+           
+
+
 
         }
     }
