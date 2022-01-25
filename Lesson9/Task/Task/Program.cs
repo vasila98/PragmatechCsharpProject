@@ -82,37 +82,61 @@ namespace Task
 
             //}
 
-            // task 5
-            for (int i = 0; i < 2; i++)
-            {
-                int say = 0;
-                Console.WriteLine("cumleni  daxil ele: ");
-                string cumle = Console.ReadLine();
-                foreach (char a in cumle)
-                {
-                    if (Convert.ToString(a) == "a")
-                    {
-                        say +=1;
-                    }
-                    
-                }
+            // task 4
+            //SortedSet<int> set = new SortedSet<int>();
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    Console.WriteLine("reqem daxil edin: ");
+            //    int reqem = Convert.ToInt32(Console.ReadLine());
+            //    set.Add(reqem);
+            //}
+            //Console.WriteLine("reqemler: ");
+            //foreach (int i in set)
+            //{
                 
-                if (say > 0)
-                {
-                    Console.WriteLine("daxilinde olan a herfi qeder cap edirem...");
-                    for (int h = 0;h < say; h++)
-                    {
+            //    Console.WriteLine(i);
+            //}
+           
+
+
+
+
+
+
+
+
+
+            // task 5
+            //for (int i = 0; i < 2; i++)
+            //{
+            //    int say = 0;
+            //    Console.WriteLine("cumleni  daxil ele: ");
+            //    string cumle = Console.ReadLine();
+            //    foreach (char a in cumle)
+            //    {
+            //        if (Convert.ToString(a) == "a")
+            //        {
+            //            say +=1;
+            //        }
+                    
+            //    }
+                
+            //    if (say > 0)
+            //    {
+            //        Console.WriteLine("daxilinde olan a herfi qeder cap edirem...");
+            //        for (int h = 0;h < say; h++)
+            //        {
                         
-                        Console.WriteLine(cumle);
-                    }
-                }
-                else
-                {
-                    cumle = null;
-                }
+            //            Console.WriteLine(cumle);
+            //        }
+            //    }
+            //    else
+            //    {
+            //        cumle = null;
+            //    }
 
 
-            }
+            //}
            
 
 
