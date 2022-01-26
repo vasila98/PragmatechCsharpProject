@@ -62,85 +62,112 @@ namespace Task
             //}
 
 
-            // task 2
+            //task 2
             //Queue<string> melumat = new Queue<string>();
-            //for (int i = 0; i <5; i++)
-            //{
-            //    Console.WriteLine("daxil ele");
-            //    string daxil=Console.ReadLine();
-            //    melumat.Enqueue(daxil);
+            //melumat.Enqueue("ravi");
+            //melumat.Enqueue("nurlan");
+            //melumat.Enqueue("qurbani");
+            //melumat.Enqueue("fezail");
+            //melumat.Enqueue("huseyn");
+            //melumat.Enqueue("araz");
+            //melumat.Enqueue("aydan");
+            //melumat.Enqueue("yusif");
+            //melumat.Enqueue("aysel");
+            //melumat.Enqueue("sebuss");
+            //melumat.Enqueue("vesi");
+            //melumat.Enqueue("elmar");
+            //melumat.Enqueue("rehman");
 
+            //melumat.Reverse<string>();
 
-
-            //    foreach (var item in melumat)
-            //    {
-
-
-            //        Console.WriteLine(item);
-            //    }
-
-
-            //}
-
-            // task 4
-            //SortedSet<int> set = new SortedSet<int>();
-            //for (int i = 0; i < 10; i++)
-            //{
-            //    Console.WriteLine("reqem daxil edin: ");
-            //    int reqem = Convert.ToInt32(Console.ReadLine());
-            //    set.Add(reqem);
-            //}
-            //Console.WriteLine("reqemler: ");
-            //foreach (int i in set)
+            //if (melumat.Count > 10)
             //{
                 
-            //    Console.WriteLine(i);
-            //}
-           
-
-
-
-
-
-
-
-
-
-            // task 5
-            //for (int i = 0; i < 2; i++)
-            //{
-            //    int say = 0;
-            //    Console.WriteLine("cumleni  daxil ele: ");
-            //    string cumle = Console.ReadLine();
-            //    foreach (char a in cumle)
-            //    {
-            //        if (Convert.ToString(a) == "a")
-            //        {
-            //            say +=1;
-            //        }
-                    
-            //    }
+            //    int say = melumat.Count-9;
                 
-            //    if (say > 0)
+            //    for (int j = 0; j < say; j++)
             //    {
-            //        Console.WriteLine("daxilinde olan a herfi qeder cap edirem...");
-            //        for (int h = 0;h < say; h++)
-            //        {
-                        
-            //            Console.WriteLine(cumle);
-            //        }
+                   
+            //        melumat.Dequeue();
+                
             //    }
-            //    else
-            //    {
-            //        cumle = null;
-            //    }
-
+              
+            //    melumat.Enqueue("Minaa Xanimm");
+               
 
             //}
-           
 
 
 
-        }
+            //foreach (var item in melumat)
+            //{
+
+            //    Console.WriteLine(item);
+            //}
+        
+    
+
+               
+
+                // task 4
+                //SortedSet<int> set = new SortedSet<int>();
+                //for (int i = 0; i < 10; i++)
+                //{
+                //    Console.WriteLine("reqem daxil edin: ");
+                //    int reqem = Convert.ToInt32(Console.ReadLine());
+                //    set.Add(reqem);
+                //}
+                //Console.WriteLine("reqemler: ");
+                //foreach (int i in set)
+                //{
+
+                //    Console.WriteLine(i);
+                //}
+
+
+
+
+
+
+
+
+
+
+                // task 5
+                //for (int i = 0; i < 2; i++)
+                //{
+                //    int say = 0;
+                //    Console.WriteLine("cumleni  daxil ele: ");
+                //    string cumle = Console.ReadLine();
+                //    foreach (char a in cumle)
+                //    {
+                //        if (Convert.ToString(a) == "a")
+                //        {
+                //            say +=1;
+                //        }
+
+                //    }
+
+                //    if (say > 0)
+                //    {
+                //        Console.WriteLine("daxilinde olan a herfi qeder cap edirem...");
+                //        for (int h = 0;h < say; h++)
+                //        {
+
+                //            Console.WriteLine(cumle);
+                //        }
+                //    }
+                //    else
+                //    {
+                //        cumle = null;
+                //    }
+
+
+                //}
+
+
+
+
+            }
     }
 }
