@@ -1,0 +1,8 @@
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\SortedSet\SortedSet\bin\Debug\SortedSet.exe.config
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\SortedSet\SortedSet\bin\Debug\SortedSet.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\SortedSet\SortedSet\bin\Debug\SortedSet.pdb
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.AssemblyReference.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\SortedSet\SortedSet\obj\Debug\SortedSet.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\SortedSet\SortedSet\obj\Debug\SortedSet.pdb
