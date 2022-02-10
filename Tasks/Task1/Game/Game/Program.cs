@@ -10,17 +10,19 @@ namespace Game
     {
         static void Main(string[] args)
         {
-            string[] array = new string[6];
-            array[0] = "a";
-            array[1] = "b";
-            array[2] = "c";
-            array[3] = "d";
-            array[4] = "e";
-            array[5] = "f";
+            //string[] array = new string[6];
+            //array[0] = "a";
+            //array[1] = "b";
+            //array[2] = "c";
+            //array[3] = "d";
+            //array[4] = "e";
+            //array[5] = "f";
+            string cumle = "You can gain experience, if you are careful to avoid empty redundancy. Do not fall into the error of the artisan who boasts of twenty years experience in craft while in fact he has had only one year of experience–twenty times. And never resent the advantage of experience your elders have. Recall that they have paid for this experience in the coin of life, and have emptied a purse that cannot be refilled.";
 
-           
-          
-            Random(array);
+            string[] soz=cumle.Split();
+
+
+            Random(soz);
            
 
         }
