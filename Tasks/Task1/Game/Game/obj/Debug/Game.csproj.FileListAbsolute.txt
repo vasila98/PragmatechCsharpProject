@@ -1,0 +1,8 @@
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task1\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task1\Game\Game\bin\Debug\Game.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task1\Game\Game\bin\Debug\Game.pdb
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task1\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task1\Game\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task1\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task1\Game\Game\obj\Debug\Game.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task1\Game\Game\obj\Debug\Game.pdb
