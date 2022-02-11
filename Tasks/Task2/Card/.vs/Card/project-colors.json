@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "57283e23-cea9-44a6-a025-d390c7ccfa60": {
+      "ProjectGuid": "57283e23-cea9-44a6-a025-d390c7ccfa60",
+      "DisplayName": "Card",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
