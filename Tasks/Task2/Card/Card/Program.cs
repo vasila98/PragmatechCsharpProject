@@ -42,15 +42,15 @@ namespace Card
                    
                    
                 }
-                if (secim == "2")
+                else if (secim == "2")
                 {
                     VirtualCard.VirtualKartlariGoster();
                 }
-                if (secim == "3")
+                else if (secim == "3")
                 {
                     Card.KartdakiPuluGoster();
                 }
-                if (secim == "4")
+                else if (secim == "4")
                 {
                     Console.WriteLine("emeliyyat sona catmisdir.");
                     break;
