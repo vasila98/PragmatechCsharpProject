@@ -10,7 +10,8 @@ namespace Card
     {
         static void Main(string[] args)
         {
-            Card.KartaElaveEt();
+            Card.KartaPulElaveEt();
+            Card.KartinKodunuELaveEt();
             Card.KartdakiPuluGoster();
             
         }
