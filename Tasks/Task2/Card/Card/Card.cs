@@ -8,32 +8,19 @@ namespace Card
 {
     internal class Card
     {
-        public long Kod;
-        public int Mebleg;
-        public string Vaxt;
-
-        public Card(long kd, int mebleg,string vxt)
+        public static int Mebleg;
+        public static void KartaElaveEt()
         {
-            Kod = kd;
-            Mebleg = mebleg;    
-            Vaxt = vxt;
-           
+            Console.WriteLine("kartinizda ne qeder pul oldugunu daxil edin: ");
+            Mebleg=Convert.ToInt32(Console.ReadLine());
+
         }
 
-        public static void CreateCard()
+        public static void KartdakiPuluGoster()
         {
-            Console.WriteLine( "ne qeder mebleg ayirmisiniz: ");
-            int mebleg=Convert.ToInt32(Console.ReadLine());
-            if ( )
-            {
-
-            }
-            Console.WriteLine("16 xanali kodu daxil edin: ");
-            double kod=Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("ne qeder muddetlik kart isteyirsiz");
-            string vaxt=Console.ReadLine();
+            Console.WriteLine("sizin kartinizda"+" "+ Mebleg +" "+ "Azn" +" "+ "pul var.");
         }
-
+       
        
 
 
