@@ -13,9 +13,9 @@ namespace Card
 
         public static void KartinKodunuELaveEt()
         {
-            Console.WriteLine("kartinizin 16 xanali kodu :");
+          
             Random random = new Random();
-            string a=" ";
+            string a="";
             for (int i = 0; i < 16; i++)
             {
 
@@ -26,7 +26,8 @@ namespace Card
 
 
             }
-            Console.WriteLine(a);
+            Console.WriteLine("kartinizin 16 xanali kodu : "+ a);
+         
           
 
         }
