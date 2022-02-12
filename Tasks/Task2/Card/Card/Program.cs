@@ -10,7 +10,9 @@ namespace Card
     {
         static void Main(string[] args)
         {
-            Card obyekt = new Card(56654455, 55, "5gun");
+            Card.KartaElaveEt();
+            Card.KartdakiPuluGoster();
+            
         }
     }
 }
