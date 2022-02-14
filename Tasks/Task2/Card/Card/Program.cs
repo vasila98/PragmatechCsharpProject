@@ -17,18 +17,18 @@ namespace Card
             while (true)
             {
                
-                Console.WriteLine("1.virtual kart yaratmaq.");
-                Console.WriteLine("2.virtual kartlari gosterir.");
-                Console.WriteLine("3.esas kartdaki pulu gosterir.");
-                Console.WriteLine("4.Cixis");
-                Console.WriteLine("bir reqem secin");
+                Console.WriteLine("1.Virtual kart yaratmaq.");
+                Console.WriteLine("2.Virtual kartlari gostermek.");
+                Console.WriteLine("3.Esas kartdaki pulu gostermek.");
+                Console.WriteLine("4.Cixis.");
+                Console.WriteLine("Zehmet olmasa bir reqem secin: ");
                 string secim=Console.ReadLine();
               
                 if ( secim == "1")
                 {
                     if (Card.Mebleg != 0)
                     {
-                        Console.WriteLine("kartda ne qeder pul var");
+                        Console.WriteLine("Kartda ne qeder pul var ?");
                         int pul=Convert.ToInt32(Console.ReadLine());
                         VirtualCard card=new VirtualCard(pul);
                         VirtualCard.Kartlar(card);
@@ -36,7 +36,7 @@ namespace Card
                     }
                     else
                     {
-                        Console.WriteLine("kartinizda pul qalmayib.");
+                        Console.WriteLine("Kartinizda pul qalmayib.");
                     }
                     
                    
@@ -52,7 +52,7 @@ namespace Card
                 }
                 else if (secim == "4")
                 {
-                    Console.WriteLine("emeliyyat sona catmisdir.");
+                    Console.WriteLine("Emeliyyat sona catmisdir.");
                     break;
                 }
             }
