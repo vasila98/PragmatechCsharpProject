@@ -15,9 +15,9 @@ namespace Card
         {
             while (Card.Mebleg < pul)
             {
-                Console.WriteLine("esas kartinizda bu qeder pul yoxdur teesuf ki..");
+                Console.WriteLine("Esas kartinizda bu qeder pul yoxdur teesuf ki..");
                 
-                Console.WriteLine("yeniden cehd edin");
+                Console.WriteLine("Yeniden cehd edin");
                 pul=Convert.ToInt32(Console.ReadLine());
             }
             mebleg = pul;
@@ -34,25 +34,25 @@ namespace Card
 
 
             }
-            Console.WriteLine("kartinizin 16 xanali kodu : " + a);
+            Console.WriteLine("Kartinizin 16 xanali kodu : " + a);
         }
         public static void Kartlar(VirtualCard kart)
         {
             if(list.Count < 5)
             {
                 list.Add(kart);
-                Console.WriteLine("sizin virtual kartiniz elave olundu");
+                Console.WriteLine("Sizin virtual kartiniz elave olundu");
             }
             else
             {
-                Console.WriteLine("sadece 5 kart yarada bilersiniz");
+                Console.WriteLine("Sadece 5 virtual kart yarada bilersiniz. ");
             }
         }
         public static void VirtualKartlariGoster()
         {
             if (list.Count == 0)
             {
-                Console.WriteLine("siz virtual kart yaratmamisiniz");
+                Console.WriteLine("Siz virtual kart yaratmamisiniz");
 
             }
             else
