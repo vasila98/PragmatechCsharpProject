@@ -12,5 +12,10 @@ namespace Task
         {
             Console.WriteLine("Interface");
         }
+        interface Developer
+        {
+            void Maaslar(int kohne, int artmis);
+            void Tasklar(string junior, string middle);
+        }
     }
 }
