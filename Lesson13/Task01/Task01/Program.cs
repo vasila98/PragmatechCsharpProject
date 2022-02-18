@@ -40,14 +40,19 @@ namespace Task01
                 ucbucaq.Sahe();
 
             }
+            else if (secim == "4")
+            {
+
+                Console.WriteLine("Dairenin radiusunu daxil edin: ");
+                Daire daire = new Daire();
+                daire.Perimetr();
+                daire.Sahe();
+
+            }
 
            
            
            
-            Console.WriteLine("Dairenin radiusunu daxil edin: ");
-            Daire daire = new Daire();
-            daire.Perimetr();
-            daire.Sahe();
 
         }
         interface IFigure
