@@ -11,11 +11,12 @@ namespace Task01
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Zehmet olmasa bir emeliyyat secin:");
-            Console.WriteLine("1.Kvadratin perimetrini ve sahesini hesablamaq ");
-            Console.WriteLine("2.Duzbucaqlinin perimetrini ve sahesini hesablamaq ");
-            Console.WriteLine("3.Ucbucagin perimetrini ve sahesini hesablamaq ");
-            Console.WriteLine("4.Dairenin perimetrini ve sahesini hesablamaq ");
+           
+            Console.WriteLine("1. Kvadratin perimetrini ve sahesini hesablamaq ");
+            Console.WriteLine("2. Duzbucaqlinin perimetrini ve sahesini hesablamaq ");
+            Console.WriteLine("3. Ucbucagin perimetrini ve sahesini hesablamaq ");
+            Console.WriteLine("4. Dairenin perimetrini ve sahesini hesablamaq ");
+            Console.WriteLine("   Zehmet olmasa bir emeliyyat secin:");
             string secim = Console.ReadLine();
 
             if (secim == "1")
