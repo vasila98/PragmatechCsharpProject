@@ -17,6 +17,7 @@ namespace Task01
             Console.WriteLine("3.Ucbucagin perimetrini ve sahesini gosterir");
             Console.WriteLine("4.Dairenin perimetrini ve sahesini gosterir");
             string secim = Console.ReadLine();
+
             if (secim == "1")
             {
                 Console.WriteLine("kvadratin terefini daxil edin: ");
@@ -49,10 +50,19 @@ namespace Task01
                 daire.Sahe();
 
             }
+            else
+            {
+                Console.WriteLine("Bele bir emeliyyat yoxdur. Emeliyyat sona catmisdir.");
+            }
 
-           
-           
-           
+
+
+
+
+
+
+
+
 
         }
         interface IFigure
