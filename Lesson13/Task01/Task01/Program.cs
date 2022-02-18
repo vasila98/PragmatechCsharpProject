@@ -13,13 +13,20 @@ namespace Task01
 
             Console.WriteLine("kvadratin terefini daxil edin: ");
             Kvadrat kv = new Kvadrat();
-
             kv.Perimetr();
             kv.Sahe();
             Console.WriteLine("Duzbucaqlinin tereflerini daxil edin: ");
             Duzbucaqli db = new Duzbucaqli();
             db.Perimetr();
             db.Sahe();
+            Console.WriteLine("Ucbucagin tereflerini daxil edin:  ");
+            Ucbucaq ucbucaq = new Ucbucaq();
+            ucbucaq.Perimetr();
+            ucbucaq.Sahe();
+            Console.WriteLine("Dairenin radiusunu daxil edin: ");
+            Daire daire = new Daire();
+            daire.Perimetr();
+            daire.Sahe();
 
         }
         interface IFigure
@@ -29,7 +36,7 @@ namespace Task01
         }
         class Kvadrat : IFigure
         {
-
+            
             int a = Convert.ToInt32(Console.ReadLine());
             public void Perimetr()
             {
@@ -78,6 +85,22 @@ namespace Task01
                 Console.WriteLine("ucbucaqlinin sahesi: " + sahe);
             }
         }
-    
+        class Daire : IFigure
+        {
+            int radius=Convert.ToInt32(Console.ReadLine());
+            float pi = 3.14F;
+            public void Perimetr()
+            {
+                float pm = 2 * pi * radius;
+                Console.WriteLine("dairenin perimetri: "+pm);
+            }
+
+            public void Sahe()
+            {
+                float sahe = pi * radius * radius;
+                Console.WriteLine("dairenin sahesi: "+sahe);
+            }
+        }
+
     }
 }
