@@ -11,18 +11,39 @@ namespace Task01
         static void Main(string[] args)
         {
 
-            Console.WriteLine("kvadratin terefini daxil edin: ");
-            Kvadrat kv = new Kvadrat();
-            kv.Perimetr();
-            kv.Sahe();
-            Console.WriteLine("Duzbucaqlinin tereflerini daxil edin: ");
-            Duzbucaqli db = new Duzbucaqli();
-            db.Perimetr();
-            db.Sahe();
-            Console.WriteLine("Ucbucagin tereflerini daxil edin:  ");
-            Ucbucaq ucbucaq = new Ucbucaq();
-            ucbucaq.Perimetr();
-            ucbucaq.Sahe();
+            Console.WriteLine("zehmet olmasa bir emeliyyat secin:");
+            Console.WriteLine("1.Kvadratin perimetrini ve sahesini gosterir");
+            Console.WriteLine("2.Duzbucaqlinin perimetrini ve sahesini gosterir");
+            Console.WriteLine("3.Ucbucagin perimetrini ve sahesini gosterir");
+            Console.WriteLine("4.Dairenin perimetrini ve sahesini gosterir");
+            string secim = Console.ReadLine();
+            if (secim == "1")
+            {
+                Console.WriteLine("kvadratin terefini daxil edin: ");
+                Kvadrat kv = new Kvadrat();
+                kv.Perimetr();
+                kv.Sahe();
+            }
+            else if (secim == "2")
+            {
+
+                Console.WriteLine("Duzbucaqlinin tereflerini daxil edin: ");
+                Duzbucaqli db = new Duzbucaqli();
+                db.Perimetr();
+                db.Sahe();
+            }
+            else if (secim == "3")
+            {
+                Console.WriteLine("Ucbucagin tereflerini daxil edin:  ");
+                Ucbucaq ucbucaq = new Ucbucaq();
+                ucbucaq.Perimetr();
+                ucbucaq.Sahe();
+
+            }
+
+           
+           
+           
             Console.WriteLine("Dairenin radiusunu daxil edin: ");
             Daire daire = new Daire();
             daire.Perimetr();
