@@ -1,0 +1,8 @@
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\sahePerimetr\sahePerimetr\bin\Debug\sahePerimetr.exe.config
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\sahePerimetr\sahePerimetr\bin\Debug\sahePerimetr.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\sahePerimetr\sahePerimetr\bin\Debug\sahePerimetr.pdb
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\sahePerimetr\sahePerimetr\obj\Debug\sahePerimetr.csproj.AssemblyReference.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\sahePerimetr\sahePerimetr\obj\Debug\sahePerimetr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\sahePerimetr\sahePerimetr\obj\Debug\sahePerimetr.csproj.CoreCompileInputs.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\sahePerimetr\sahePerimetr\obj\Debug\sahePerimetr.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\sahePerimetr\sahePerimetr\obj\Debug\sahePerimetr.pdb
