@@ -1,0 +1,8 @@
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\var_dynamic\var_dynamic\bin\Debug\var_dynamic.exe.config
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\var_dynamic\var_dynamic\bin\Debug\var_dynamic.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\var_dynamic\var_dynamic\bin\Debug\var_dynamic.pdb
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\var_dynamic\var_dynamic\obj\Debug\var_dynamic.csproj.AssemblyReference.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\var_dynamic\var_dynamic\obj\Debug\var_dynamic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\var_dynamic\var_dynamic\obj\Debug\var_dynamic.csproj.CoreCompileInputs.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\var_dynamic\var_dynamic\obj\Debug\var_dynamic.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\var_dynamic\var_dynamic\obj\Debug\var_dynamic.pdb
