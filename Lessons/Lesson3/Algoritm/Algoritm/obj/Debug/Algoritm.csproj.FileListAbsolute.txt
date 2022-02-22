@@ -1,0 +1,8 @@
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Algoritm\Algoritm\bin\Debug\Algoritm.exe.config
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Algoritm\Algoritm\bin\Debug\Algoritm.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Algoritm\Algoritm\bin\Debug\Algoritm.pdb
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Algoritm\Algoritm\obj\Debug\Algoritm.csproj.AssemblyReference.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Algoritm\Algoritm\obj\Debug\Algoritm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Algoritm\Algoritm\obj\Debug\Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Algoritm\Algoritm\obj\Debug\Algoritm.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Algoritm\Algoritm\obj\Debug\Algoritm.pdb

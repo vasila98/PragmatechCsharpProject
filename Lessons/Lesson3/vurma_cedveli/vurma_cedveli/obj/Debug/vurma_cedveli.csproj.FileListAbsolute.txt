@@ -1,0 +1,8 @@
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\vurma_cedveli\vurma_cedveli\bin\Debug\vurma_cedveli.exe.config
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\vurma_cedveli\vurma_cedveli\bin\Debug\vurma_cedveli.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\vurma_cedveli\vurma_cedveli\bin\Debug\vurma_cedveli.pdb
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\vurma_cedveli\vurma_cedveli\obj\Debug\vurma_cedveli.csproj.AssemblyReference.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\vurma_cedveli\vurma_cedveli\obj\Debug\vurma_cedveli.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\vurma_cedveli\vurma_cedveli\obj\Debug\vurma_cedveli.csproj.CoreCompileInputs.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\vurma_cedveli\vurma_cedveli\obj\Debug\vurma_cedveli.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\vurma_cedveli\vurma_cedveli\obj\Debug\vurma_cedveli.pdb

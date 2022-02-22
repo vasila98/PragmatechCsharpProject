@@ -1,0 +1,8 @@
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task04\Task04\bin\Debug\Task04.exe.config
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task04\Task04\bin\Debug\Task04.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task04\Task04\bin\Debug\Task04.pdb
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task04\Task04\obj\Debug\Task04.csproj.AssemblyReference.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task04\Task04\obj\Debug\Task04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task04\Task04\obj\Debug\Task04.csproj.CoreCompileInputs.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task04\Task04\obj\Debug\Task04.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task04\Task04\obj\Debug\Task04.pdb

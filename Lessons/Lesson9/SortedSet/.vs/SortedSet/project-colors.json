@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2bdffdd-4cbd-4e89-9df9-4938e70abc04": {
+      "ProjectGuid": "b2bdffdd-4cbd-4e89-9df9-4938e70abc04",
+      "DisplayName": "SortedSet",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

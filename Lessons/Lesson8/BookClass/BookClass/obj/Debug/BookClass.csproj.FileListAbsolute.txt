@@ -1,0 +1,8 @@
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson8\BookClass\BookClass\bin\Debug\BookClass.exe.config
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson8\BookClass\BookClass\bin\Debug\BookClass.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson8\BookClass\BookClass\bin\Debug\BookClass.pdb
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson8\BookClass\BookClass\obj\Debug\BookClass.csproj.AssemblyReference.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson8\BookClass\BookClass\obj\Debug\BookClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson8\BookClass\BookClass\obj\Debug\BookClass.csproj.CoreCompileInputs.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson8\BookClass\BookClass\obj\Debug\BookClass.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson8\BookClass\BookClass\obj\Debug\BookClass.pdb
