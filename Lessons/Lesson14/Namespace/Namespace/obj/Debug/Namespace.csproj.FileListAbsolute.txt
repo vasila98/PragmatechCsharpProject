@@ -1,0 +1,8 @@
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Lesson14\Namespace\Namespace\bin\Debug\Namespace.exe.config
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Lesson14\Namespace\Namespace\bin\Debug\Namespace.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Lesson14\Namespace\Namespace\bin\Debug\Namespace.pdb
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Lesson14\Namespace\Namespace\obj\Debug\Namespace.csproj.AssemblyReference.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Lesson14\Namespace\Namespace\obj\Debug\Namespace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Lesson14\Namespace\Namespace\obj\Debug\Namespace.csproj.CoreCompileInputs.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Lesson14\Namespace\Namespace\obj\Debug\Namespace.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Lesson14\Namespace\Namespace\obj\Debug\Namespace.pdb
