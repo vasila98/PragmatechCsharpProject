@@ -1,0 +1,8 @@
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task2\Card\Card\obj\Debug\Card.csproj.AssemblyReference.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task2\Card\Card\obj\Debug\Card.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task2\Card\Card\obj\Debug\Card.csproj.CoreCompileInputs.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task2\Card\Card\bin\Debug\Card.exe.config
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task2\Card\Card\bin\Debug\Card.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task2\Card\Card\bin\Debug\Card.pdb
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task2\Card\Card\obj\Debug\Card.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Tasks\Task2\Card\Card\obj\Debug\Card.pdb

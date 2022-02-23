@@ -1,8 +1,0 @@
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Optional\Optional\bin\Debug\Optional.exe.config
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Optional\Optional\bin\Debug\Optional.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Optional\Optional\bin\Debug\Optional.pdb
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Optional\Optional\obj\Debug\Optional.csproj.AssemblyReference.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Optional\Optional\obj\Debug\Optional.csproj.SuggestedBindingRedirects.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Optional\Optional\obj\Debug\Optional.csproj.CoreCompileInputs.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Optional\Optional\obj\Debug\Optional.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\Optional\Optional\obj\Debug\Optional.pdb

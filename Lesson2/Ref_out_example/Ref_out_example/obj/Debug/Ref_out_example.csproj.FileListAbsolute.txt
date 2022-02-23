@@ -1,8 +1,0 @@
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Ref_out_example\Ref_out_example\bin\Debug\Ref_out_example.exe.config
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Ref_out_example\Ref_out_example\bin\Debug\Ref_out_example.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Ref_out_example\Ref_out_example\bin\Debug\Ref_out_example.pdb
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Ref_out_example\Ref_out_example\obj\Debug\Ref_out_example.csproj.AssemblyReference.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Ref_out_example\Ref_out_example\obj\Debug\Ref_out_example.csproj.SuggestedBindingRedirects.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Ref_out_example\Ref_out_example\obj\Debug\Ref_out_example.csproj.CoreCompileInputs.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Ref_out_example\Ref_out_example\obj\Debug\Ref_out_example.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Ref_out_example\Ref_out_example\obj\Debug\Ref_out_example.pdb

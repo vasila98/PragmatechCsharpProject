@@ -1,8 +1,0 @@
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\duzbucaqlinin_sahesi\duzbucaqlinin_sahesi\bin\Debug\duzbucaqlinin_sahesi.exe.config
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\duzbucaqlinin_sahesi\duzbucaqlinin_sahesi\bin\Debug\duzbucaqlinin_sahesi.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\duzbucaqlinin_sahesi\duzbucaqlinin_sahesi\bin\Debug\duzbucaqlinin_sahesi.pdb
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\duzbucaqlinin_sahesi\duzbucaqlinin_sahesi\obj\Debug\duzbucaqlinin_sahesi.csproj.AssemblyReference.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\duzbucaqlinin_sahesi\duzbucaqlinin_sahesi\obj\Debug\duzbucaqlinin_sahesi.csproj.SuggestedBindingRedirects.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\duzbucaqlinin_sahesi\duzbucaqlinin_sahesi\obj\Debug\duzbucaqlinin_sahesi.csproj.CoreCompileInputs.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\duzbucaqlinin_sahesi\duzbucaqlinin_sahesi\obj\Debug\duzbucaqlinin_sahesi.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\duzbucaqlinin_sahesi\duzbucaqlinin_sahesi\obj\Debug\duzbucaqlinin_sahesi.pdb

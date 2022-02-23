@@ -1,8 +1,0 @@
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task07\Task07\bin\Debug\Task07.exe.config
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task07\Task07\bin\Debug\Task07.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task07\Task07\bin\Debug\Task07.pdb
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task07\Task07\obj\Debug\Task07.csproj.AssemblyReference.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task07\Task07\obj\Debug\Task07.csproj.SuggestedBindingRedirects.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task07\Task07\obj\Debug\Task07.csproj.CoreCompileInputs.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task07\Task07\obj\Debug\Task07.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson4\Task07\Task07\obj\Debug\Task07.pdb

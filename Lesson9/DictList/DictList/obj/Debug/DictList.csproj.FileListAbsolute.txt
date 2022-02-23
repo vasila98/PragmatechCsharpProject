@@ -1,8 +1,0 @@
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\DictList\DictList\bin\Debug\DictList.exe.config
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\DictList\DictList\bin\Debug\DictList.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\DictList\DictList\bin\Debug\DictList.pdb
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\DictList\DictList\obj\Debug\DictList.csproj.AssemblyReference.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\DictList\DictList\obj\Debug\DictList.csproj.SuggestedBindingRedirects.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\DictList\DictList\obj\Debug\DictList.csproj.CoreCompileInputs.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\DictList\DictList\obj\Debug\DictList.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\DictList\DictList\obj\Debug\DictList.pdb

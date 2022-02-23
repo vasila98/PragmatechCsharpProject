@@ -1,8 +1,0 @@
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\QueueList\QueueList\bin\Debug\QueueList.exe.config
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\QueueList\QueueList\bin\Debug\QueueList.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\QueueList\QueueList\bin\Debug\QueueList.pdb
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\QueueList\QueueList\obj\Debug\QueueList.csproj.AssemblyReference.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\QueueList\QueueList\obj\Debug\QueueList.csproj.SuggestedBindingRedirects.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\QueueList\QueueList\obj\Debug\QueueList.csproj.CoreCompileInputs.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\QueueList\QueueList\obj\Debug\QueueList.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson9\QueueList\QueueList\obj\Debug\QueueList.pdb

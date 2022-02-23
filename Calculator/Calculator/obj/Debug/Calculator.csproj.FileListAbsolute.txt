@@ -1,8 +1,0 @@
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Calculator\Calculator\bin\Debug\Calculator.exe.config
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Calculator\Calculator\bin\Debug\Calculator.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Calculator\Calculator\bin\Debug\Calculator.pdb
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Calculator\Calculator\obj\Debug\Calculator.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,8 +1,0 @@
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\reverse_method\reverse_method\obj\Debug\reverse_method.csproj.AssemblyReference.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\reverse_method\reverse_method\obj\Debug\reverse_method.csproj.SuggestedBindingRedirects.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\reverse_method\reverse_method\obj\Debug\reverse_method.csproj.CoreCompileInputs.cache
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\reverse_method\reverse_method\bin\Debug\reverse_method.exe.config
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\reverse_method\reverse_method\bin\Debug\reverse_method.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\reverse_method\reverse_method\bin\Debug\reverse_method.pdb
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\reverse_method\reverse_method\obj\Debug\reverse_method.exe
-C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lesson3\reverse_method\reverse_method\obj\Debug\reverse_method.pdb
