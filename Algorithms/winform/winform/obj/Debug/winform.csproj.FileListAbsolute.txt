@@ -1,0 +1,11 @@
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\winform\winform\bin\Debug\winform.exe.config
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\winform\winform\bin\Debug\winform.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\winform\winform\bin\Debug\winform.pdb
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\winform\winform\obj\Debug\winform.csproj.AssemblyReference.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\winform\winform\obj\Debug\winform.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\winform\winform\obj\Debug\winform.Form1.resources
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\winform\winform\obj\Debug\winform.Properties.Resources.resources
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\winform\winform\obj\Debug\winform.csproj.GenerateResource.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\winform\winform\obj\Debug\winform.csproj.CoreCompileInputs.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\winform\winform\obj\Debug\winform.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Algorithms\winform\winform\obj\Debug\winform.pdb
