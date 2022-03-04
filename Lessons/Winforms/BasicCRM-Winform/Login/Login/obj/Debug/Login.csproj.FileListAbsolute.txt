@@ -1,0 +1,10 @@
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Winforms\BasicCRM-Winform\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Winforms\BasicCRM-Winform\Login\Login\bin\Debug\Login.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Winforms\BasicCRM-Winform\Login\Login\bin\Debug\Login.pdb
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Winforms\BasicCRM-Winform\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Winforms\BasicCRM-Winform\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Winforms\BasicCRM-Winform\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Winforms\BasicCRM-Winform\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Winforms\BasicCRM-Winform\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Winforms\BasicCRM-Winform\Login\Login\obj\Debug\Login.exe
+C:\Users\Vesi\Desktop\PragmatechCsharpProject\Lessons\Winforms\BasicCRM-Winform\Login\Login\obj\Debug\Login.pdb
